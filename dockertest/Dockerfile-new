@@ -1,0 +1,2 @@
+FROM ubuntu:latest
+ADD http://apachemirror.wuchna.com/tomcat/tomcat-8/v8.5.54/bin/apache-tomcat-8.5.54.tar.gz /tmp
